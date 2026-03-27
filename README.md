@@ -16,4 +16,4 @@ Modeled system architecture to resolve fragmented patient data issues.
 
 ### BearLink System
 Developed system requirements and project plan for real-time tracking system.  
-[View Project](link)
+[View Project](https://github.com/ddmillerbusiness-glitch/D-demarco-Miller-Systems-Client-Solutions-Portfolio/blob/main/FULL%20Project%20Status%20Report%20(1).pdf)
