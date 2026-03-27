@@ -8,7 +8,7 @@ Designed a clinical dashboard to reduce errors and improve workflow efficiency.
 
 ### GIS Crash Analysis
 Analyzed traffic crash data to identify high-risk zones.  
-[View Project](link)
+[View Project]([link](https://github.com/ddmillerbusiness-glitch/D-demarco-Miller-Systems-Client-Solutions-Portfolio/blob/main/Layout.pdf))
 
 ### Hospital Systems Modernization
 Modeled system architecture to resolve fragmented patient data issues.  
