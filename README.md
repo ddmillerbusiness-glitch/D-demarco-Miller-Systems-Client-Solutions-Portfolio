@@ -12,7 +12,7 @@ Analyzed traffic crash data to identify high-risk zones.
 
 ### Hospital Systems Modernization
 Modeled system architecture to resolve fragmented patient data issues.  
-[View Project](link)
+[View Project]([link](https://github.com/ddmillerbusiness-glitch/D-demarco-Miller-Systems-Client-Solutions-Portfolio/blob/main/MGMT480_Miller_StEligius_AnalystBrief.pdf))
 
 ### BearLink System
 Developed system requirements and project plan for real-time tracking system.  
