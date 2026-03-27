@@ -4,7 +4,7 @@
 
 ### Clinical Interface Design (Healthcare)
 Designed a clinical dashboard to reduce errors and improve workflow efficiency.  
-[View Project](link)
+[View Project](https://github.com/ddmillerbusiness-glitch/D-demarco-Miller-Systems-Client-Solutions-Portfolio/blob/main/MGMT480_Miller_StEligius_ClinicalInterface.pdf)
 
 ### GIS Crash Analysis
 Analyzed traffic crash data to identify high-risk zones.  
